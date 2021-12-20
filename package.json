@@ -6,6 +6,7 @@
   "author": "Jan Kvapil",
   "license": "MIT",
   "scripts": {
+    "start": "node ./index.js",
     "watch": "nodemon ./index.js"
   },
   "dependencies": {
